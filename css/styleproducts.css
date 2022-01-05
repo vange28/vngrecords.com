@@ -1,0 +1,560 @@
+/*header*/
+
+head {
+    background-attachment: local; 
+}
+body{
+    background: url(../pic/bgg.jpg) ; 
+    background-size: cover;  
+    font-family: Agency FB, serif;
+
+   
+  
+}
+header {
+    text-align: justify;
+    text-transform: fixed;
+}
+h1{
+    position: absolute;
+    
+}   
+
+h1 ul{
+    background-color: none;
+    border-bottom: 1px;
+   
+}
+ 
+
+h1 li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+h1 a{
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+    padding: 20px 30px;
+    margin-top: 1px
+    
+
+}
+h1 a:hover {
+    color: red; 
+    position: relative;
+    height: 2px;
+    bottom: 6px;
+    width: 88%;
+}
+
+/*add ons */
+h2{
+   padding: 1px;
+    margin-top: 4px;
+   margin-left:255px;
+   float: left;
+    color: white;
+   border-radius: 10px;
+   text-align: center;
+   text-align: justify;
+   font-size:28px;
+    transition: 0.5s;
+   
+}
+
+
+h2:hover{
+    background-color: lightgray;
+  text-decoration: none;
+    border-color: gray;
+    border: 4px solid;
+    transition: 0.3s ease;
+    color: red;
+    padding-right: 25px;
+    opacity:.8;
+    
+}
+
+.main h2 ul li {
+
+    list-style: none;
+    float: top;
+    margin: 5px;
+    opacity: .8;
+    line-height: 40px;
+    font-size: 20px;
+    border: 3px solid;
+    padding: 2px 2px;
+    border-color:white;
+    text-align: center;
+    
+}
+
+h2 ul li a{
+text-decoration: none;
+
+    color: black;
+    display: block;
+ 
+}
+h2 ul li:hover{
+    color:white;
+    background-color:black;
+    margin: 1px;
+   border: 2px solid;
+   border-color:gray;
+   opacity: .6;
+   
+}
+h2 ul li:hover a{
+    color: white;
+}
+h2 ul li a:hover{
+    color: white;
+}
+ h2 ul li.active a{
+    background-color: black;
+     color: white;
+    text-decoration: underline;
+    opacity: .4;
+} 
+h2 ul li{
+    display: none;
+    
+}
+h2:hover ul li{
+    display:block;
+    transition: 0.5s ease;
+    position:inherit;
+}  
+
+h3{
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 33px;
+}   
+
+h3 ul{
+    background-color: none;
+    border-bottom: 1px;
+   
+}
+ 
+
+h3 li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+h3 a{
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+    padding: 20px 27px;
+    margin-top: 1px
+    
+
+}
+h3 a:hover {
+    color: red; 
+    position: relative;
+    height: 2px;
+    bottom: 6px;
+    width: 88%;
+}
+
+   
+/*add ons 2 */
+h4{
+   padding: 1px;
+    margin-top: 4px;
+   margin-left:240px;
+   float: left;
+    color: white;
+   border-radius: 10px;
+   text-align: center;
+   text-align: justify;
+   font-size:28px;
+    transition: 0.5s;
+   
+}
+
+
+h4:hover{
+    background-color: lightgray;
+  text-decoration: none;
+    border-color: gray;
+    border: 4px solid;
+    transition: 0.3s ease;
+    color: red;
+    padding-right: 25px;
+    opacity:.8;
+    
+}
+
+.main h4 ul li {
+
+    list-style: none;
+    float: top;
+    margin: 5px;
+    opacity: .8;
+    line-height: 40px;
+    font-size: 20px;
+    border: 3px solid;
+    padding: 2px 2px;
+    border-color:white;
+    text-align: center;
+    
+}
+
+h4 ul li a{
+text-decoration: none;
+
+    color: black;
+    display: block;
+ 
+}
+h4 ul li:hover{
+    color:white;
+    background-color:black;
+    margin: 1px;
+   border: 2px solid;
+   border-color:gray;
+   opacity: .6;
+   
+}
+h4 ul li:hover a{
+    color: white;
+}
+h4 ul li a:hover{
+    color: white;
+}
+ h4 ul li.active a{
+    background-color: black;
+     color: white;
+    text-decoration: underline;
+    opacity: .4;
+} 
+h4 ul li{
+    display: none;
+    
+}
+h4:hover ul li{
+    display:block;
+    transition: 0.5s ease;
+    position:inherit;
+}  
+
+
+h5{
+    position: absolute;
+    margin-left:920px;
+    margin-top: 33px;
+}   
+
+h5 ul{
+    background-color: none;
+    border-bottom: 1px;
+   
+}
+ 
+
+h5 li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+h5 a{
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+    padding: 20px 20px;
+    margin-top: 1px
+    
+
+}
+h5 a:hover {
+    color: red; 
+    position: relative;
+    height: 2px;
+    bottom: 6px;
+    width: 88%;
+}
+
+
+h6{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 33px;
+}   
+
+h6 ul{
+    background-color: none;
+    border-bottom: 1px;
+   
+}
+ 
+
+h6 li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+h6 a{
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+    padding: 20px 20px;
+    margin-top: 1px
+    
+
+}
+h6 a:hover {
+    color: red; 
+    position: relative;
+    height: 2px;
+    bottom: 6px;
+    width: 88%;
+}
+.hh{
+    position: absolute;
+    margin-left:1200px;
+    margin-top: 33px;
+}   
+
+.hh ul{
+    background-color: none;
+    border-bottom: 1px;
+}
+ 
+
+.hh li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+.hh a{
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+    padding: 20px 20px;
+    margin-top: 1px
+    
+
+}
+.hh a:hover {
+    color: red; 
+    position: relative;
+    height: 2px;
+    bottom: 6px;
+    width: 88%;
+}
+
+/* body 
+.greet{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 28px;
+} */
+
+
+.p3{
+    position: absolute;
+    margin-top: 341px;
+    margin-left: 136px;
+    transition: .6s ease;
+
+}
+.p3 img{  
+   margin: 5px;
+    border: 3px solid;
+    border-color: gray;
+   transition: .6s ease;
+ 
+}
+.p3 img:hover{
+    transition: .9s ease;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+.mp{
+    position: absolute;
+    text-decoration: none;
+    color: gray;
+    font-size: 28px;
+    margin-top: 1160px;
+    margin-left: 1050px;
+}
+.mp a:hover {
+    color: red; 
+    position: relative;
+}
+
+.vde{
+    
+    position: absolute;
+    margin-top: 1235px;
+    margin-left: 115px;
+    transition: .6s ease;
+}
+.vde video{
+    margin: 10px;
+    border: 3px solid;
+    border-color: gray;
+   transition: .6s ease;
+}
+.vde video:hover{
+    transition: .9s ease;
+    margin: 5px;
+    border-radius: 25px;
+}
+.mv{
+    position: absolute;
+    text-decoration: none;
+    color: gray;
+    font-size: 28px;
+    margin-top: 1750px;
+    margin-left: 1050px;
+}
+.mv a:hover {
+    color: red; 
+    position: relative;
+}
+
+.m {
+    text-align: center;
+    position: absolute;
+    margin-top: 50px;
+    margin-left:50px;
+    color: rgb(139, 0, 0);
+    font-size: 110px;
+    text-shadow: -3px 3px 15px;
+    text-shadow: rgb(220,220,220);
+}
+
+.m1 {
+    text-align: center;
+    position: absolute;
+    margin-top: 75px;
+    margin-left:300px;
+    margin-right: 60px;
+    color: gray;
+    font-size: 35px;
+}
+
+.pct {
+    text-align: center;
+    position: absolute;
+    margin-top: 260px;
+    margin-left:80px;
+    color: gray;
+    font-size: 50px;
+}
+
+.vid {
+    text-align: center;
+    position: absolute;
+    margin-top: 1168px;
+    margin-left:80px;
+    color: gray;
+    font-size: 50px;
+}
+
+/*footer*/
+footer{
+    text-align: center;
+    display: inline-block;
+    list-style-type: none;
+    text-align: justify;
+}
+
+.p{
+    float: left;
+    position: sticky;
+    margin-top: 1900px;
+    margin-left: 20px;
+}
+
+.ft{
+    position: sticky;
+    text-align: center;
+    margin-left: 429px;
+    margin-top: 2042px;
+}   
+
+
+.ft li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+.ft a{
+    text-decoration: none;
+    font-size: 20px;
+    font-style:"forte", serif;
+    color: white;
+    text-align: center;
+    padding: 25px;
+  
+}
+.ft a:hover {
+    color: red; 
+    position: relative;
+ 
+}
+
+.vng{
+    text-align: center;
+    position: absolute;
+    margin-top: 1860px;
+    margin-left: 582px;
+}
+
+.p2{
+    text-align: center;
+    position: absolute;
+    margin-top: 2020px;
+    margin-left: 595px;
+    color: white;
+    font-size: 20px;
+} 
+/* social media */
+
+.soc{
+    position: absolute;
+    text-align: center;
+    margin-left: 419px;
+    margin-top: 1950px;
+}   
+
+
+.soc li{
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-align: justify;
+}
+.soc a{
+    text-decoration: none;
+    font-size: 20px;
+    font-style:"forte", serif;
+    color: white;
+    text-align: center;
+    padding: 25px;
+  
+}
+.soc a:hover {
+    position: relative;
+    height: 2px;
+    bottom:-2px;
+    width: 88%;
+}
