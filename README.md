@@ -1,1 +1,1 @@
-# vngrecords.com
+# vngr.com
